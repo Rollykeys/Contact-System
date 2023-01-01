@@ -10,6 +10,7 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition  Width="3*"/>
+            
         </Grid.ColumnDefinitions>
         <TextBlock TextWrapping="Wrap" Text="Madzara's Contact Book" Margin="86,0,0,413" FontWeight="Bold" FontSize="22" HorizontalAlignment="Left" Width="313" Grid.Column="1" />
         <TextBlock TextWrapping="Wrap" Text="Name" Margin="29,-124,70,367" FontSize="18" MaxHeight="60"/>
